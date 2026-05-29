@@ -1,0 +1,1 @@
+## Spring Boot의 기본 서블릿 모델(Thread-per-request)과 Java 21 가상 스레드(Virtual Thread) 모델의 차이를 OS 커널 스레드 스케줄링 관점에서 비교해 주세요.
